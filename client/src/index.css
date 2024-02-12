@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*{
+    box-sizing:border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+button{
+    box-shadow:nonw !important;
+    height:45px !important;
+    border-radius:2px !important;
+}
+input{
+    height: 45px;
+    width:100%;
+    border:1px solid #ccc
+}
+.loginbutton{
+    margin-left:55px;
+    margin-top: 15px;
+    width:50%;
+}
+.redo{
+    margin-left:65px;
+    margin-top: 10px;
+}
+.Registerbutton{
+    margin-left:55px;
+    margin-top: 15px;
+    width:50%;
+}

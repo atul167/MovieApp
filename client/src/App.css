@@ -1,0 +1,23 @@
+.Login {
+    margin-left: auto; /* Pushes the button to the right */
+    margin-right: 10px; /* Optional margin from the right if needed */
+    padding: 10px;
+    background-color: #ff6347; /* Coral color */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+.SignUp{
+    margin-left: auto; /* Pushes the button to the right */
+    margin-right: 10px; /* Optional margin from the right if needed */
+    padding: 10px;
+    background-color: #ff6347; /* Coral color */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+body{
+    background-color: aliceblue;
+}
